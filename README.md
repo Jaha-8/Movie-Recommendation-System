@@ -45,8 +45,7 @@ Movie-Recommendation-System/
 │
 ├── movie.py
 ├── README.md
-├── requirements.txt
-└── dataset.csv
+├── .gitignore
 
 Note: Update the file names according to your actual project.
 
